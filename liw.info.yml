@@ -1,0 +1,23 @@
+core: 8.x
+type: theme
+
+name: 'Love Is Why'
+description: 'The Love Is Why theme.'
+package: 'Bootstrap'
+
+regions:
+  alerts: 'Alerts'
+  navigation: 'Navigation'
+  navigation_collapsible: 'Navigation (Collapsible)'
+  header: 'Header Content'
+  highlighted: 'Highlighted'
+  help: 'Help'
+  content: 'Content'
+  featured_stories: 'Featured Stories' 
+  footer: 'Footer'
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+
+libraries:
+  - 'liw/global-styling'
+  - 'liw/global-fonts'

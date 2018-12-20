@@ -1,0 +1,13 @@
+global-styling:
+  css:
+    theme:
+      https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css: { type: external }
+      css/main.css: {}
+  js:
+    js/main.js: {}
+    https://use.fontawesome.com/releases/v5.0.6/js/all.js: { type: external }
+
+global-fonts:
+  css:
+    theme:
+      https://fonts.googleapis.com/css?family=Lato:300,400: { type: external }
