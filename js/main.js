@@ -30,9 +30,7 @@ for (let story of featuredStories) {
 
 // Closes overlay for full Feature Story
 function closeOverlay() {
-  console.log("TEST");
   document.body.style.overflow = 'auto';
   overlay.style.display = "none";
   article.innerHTML = '';
-  console.log("TEST 2");
 }
